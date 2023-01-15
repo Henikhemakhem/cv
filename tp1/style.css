@@ -1,0 +1,20 @@
+
+.e:hover{
+    padding: auto;
+    background-color: rgba(16, 203, 241, 0.871);
+    image-orientation: url(/images/tiktok.png);
+}
+h1:hover{
+    background-color:thistle ;
+    color: brown;
+    border-radius: 50%;
+    font: 5em sans-serif;
+    text-align: center;
+}
+.a:hover{
+    background-color:rgb(216, 191, 212) ;
+    color: teal;
+    border-radius: 50%;
+    font: 5em sans-serif;
+    text-align: center;
+}
